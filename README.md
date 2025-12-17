@@ -27,10 +27,10 @@
 | **`UUID`** | ✅ | **主 UUID** (用户ID)，客户端连接凭证 | `06b65903-406d-4a41-8463-6fd5c0ee7798` |
 | **`WEB_PASSWORD`** | ✅ | **后台登录密码** (务必设置复杂密码) | `admin888` |
 | **`SUB_PASSWORD`** | ✅ | **订阅路径密码** (访问 `https://域名/密码`) | `my-secret-sub` |
-| **`PROXYIP`** | ❌ | **默认优选域名/IP** (节点连接地址) | `cf.090227.xyz` |
-| **`SUB_DOMAIN`** | ❌ | **真实订阅源** (上游优选订阅生成器地址)<br>*自动清洗 `https://` 和尾部 `/`* | `sub.cmliussss.net` |
-| **`SUBAPI`** | ❌ | **订阅转换后端** (用于 Sing-box/Clash 转换)<br>*自动补全 `https://`* | `https://subapi.cmliussss.net` |
-| **`PS`** | ❌ | **节点备注** (自动追加到节点名称后)<br>*支持本地节点与上游订阅双重生效* | `【专线】` |
+| **`PROXYIP`** | ✅ | **默认优选域名/IP** (节点连接地址) | `cf.090227.xyz` |
+| **`SUB_DOMAIN`** | ✅ | **真实订阅源** (上游优选订阅生成器地址)<br>*自动清洗 `https://` 和尾部 `/`* | `sub.cmliussss.net` |
+| **`SUBAPI`** | 可选 | **订阅转换后端** (用于 Sing-box/Clash 转换)<br>*自动补全 `https://`* | `https://subapi.cmliussss.net` |
+| **`PS`** | 可选 | **节点备注** (自动追加到节点名称后)<br>*支持本地节点与上游订阅双重生效* | `【专线】` |
 
 ### 🛡️ 安全与通知配置
 
